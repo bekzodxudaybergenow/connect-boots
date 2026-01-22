@@ -10,3 +10,10 @@ body {
     font-size: 14px;
     padding: 10px 20px;
 }
+.home {
+    background-color: #F0F5F9;
+    padding: 150px 0 100px 0;
+}
+.feature-bg {
+    background-color: #F0F5F9
+}
