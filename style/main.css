@@ -17,3 +17,10 @@ body {
 .feature-bg {
     background-color: #F0F5F9
 }
+
+.result-img {
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+    margin-bottom: 20px;
+}
