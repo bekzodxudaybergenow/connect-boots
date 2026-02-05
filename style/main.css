@@ -24,6 +24,10 @@ body {
     object-fit: cover;
     margin-bottom: 20px;
 }
+.reviews__container {
+    padding: 100px 50px;
+    background-color: #F0F5F9;
+}
 .ceo-img {
     display: inline-block;
     width: 50px !important;
