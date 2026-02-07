@@ -36,3 +36,9 @@ body {
     object-fit: cover;
     object-position: -3px;
 }
+
+/* FAQ */
+.faq__container {
+    padding: 100px 50px;
+    background-color: #F0F5F9;
+}
