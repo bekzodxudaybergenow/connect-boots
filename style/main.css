@@ -1,6 +1,28 @@
 body {
     font-family: "Montserrat", sans-serif;
 }
+.text-dark-custom {
+    color: #3a3a47!important;
+}
+.text-grey-custom {
+    color: #5c5c5c!important;
+}
+.text-light-grey-custom {
+    color: #818198!important;
+}
+.text-dark-blue-custom {
+    color: #383B61!important;
+}
+.text-blue-custom {
+    color: #3498db!important;
+}
+.text-green-custom {
+    color: #21bf73!important;
+}
+.bg-primary-custom {
+    background-color: #f0f5f9!important;
+}
+
 
 .font-weight-500 {
     font-weight: 500;
@@ -11,7 +33,6 @@ body {
     padding: 10px 20px;
 }
 .home {
-    background-color: #F0F5F9;
     padding: 150px 0 100px 0;
 }
 .feature-bg {
